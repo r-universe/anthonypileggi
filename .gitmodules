@@ -8,3 +8,8 @@
 	url = https://github.com/anthonypileggi/casino
 	shallow = true
 	registered = true
+[submodule "worrrd"]
+	path = worrrd
+	url = https://github.com/anthonypileggi/worrrd
+	shallow = true
+	registered = true
